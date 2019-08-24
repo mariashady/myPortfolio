@@ -1,0 +1,26 @@
+body {
+    background: url("../images/laptop.jpg") no-repeat center center fixed;
+    /* background: url("../images/maria.jpg"); */
+    /* background: black; */
+    color: white;
+    /* font-family: 'Questrial', sans-serif; */
+    /* font-family: 'DM Serif Text', serif; */
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+#aboutmepage {
+    background: url("../images/maria.jpg") no-repeat center center fixed;
+    color:black;
+    font-family: 'Quattrocento Sans', sans-serif;
+    /* font-family: 'DM Serif Text', serif; */
+    font-size: 35px;
+    margin-left: 30px;
+    
+}
+
+#aboutmepar {
+    max-width: 50%;
+}
+
+
+
