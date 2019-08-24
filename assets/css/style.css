@@ -1,5 +1,6 @@
 body {
     background: url("../images/laptop.jpg") no-repeat center center fixed;
+    height: 840px;
     /* background: url("../images/maria.jpg"); */
     /* background: black; */
     color: white;
@@ -8,19 +9,41 @@ body {
     font-family: 'Quattrocento Sans', sans-serif;
 }
 
-#aboutmepage {
+/* /* #aboutmepage {
     background: url("../images/maria.jpg") no-repeat center center fixed;
-    color:black;
+
+    color: black;
     font-family: 'Quattrocento Sans', sans-serif;
-    /* font-family: 'DM Serif Text', serif; */
     font-size: 35px;
     margin-left: 30px;
-    
+
+} */
+#aboutme {
+    color: black;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    max-width: 25%;
+    padding-left: 30px;
 }
 
-#aboutmepar {
+
+/* #aboutmepar {
     max-width: 50%;
+} */ */
+
+.style {
+    max-width: 960px;
+    margin: 0 auto;
+    background: "#f9f9f9";
+    font-size: 24px;
+    padding: 25px;
 }
 
+body#aboutmepage {
+    background: url("../images/maria.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
 
-
+}
