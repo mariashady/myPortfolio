@@ -8,25 +8,25 @@ body {
     background-attachment: fixed;
     color: white;
     height: 600px;
-    /* font-family: 'Open Sans', sans-serif; */
     font-family: 'Montserrat', sans-serif;
     
 }
 
 .aboutme {
-    /* background: url("../images/laptop.jpg"); */
-    /* padding-top: 600px; */
     background-size: cover;
     background-attachment: fixed;
-    color: black;
+    color: slategrey;
     margin-left: 100px;
     
 
 }
 
 #intro {
-    /* padding: 60px; */
     margin-left: 5%;
+}
+
+h3 {
+    color: slategrey
 }
 
 h4 {
@@ -46,7 +46,7 @@ li {
     display: inline-block;
     font-size: 20px;
     padding: 20px 20px;
-    border: 1px solid black;
+    border: 1px solid slategrey;
     border-radius: 50%;
     transition: .5s;
 }
@@ -57,62 +57,3 @@ li:hover {
     transition: .5s;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-/* body {
-    background: url("../images/laptop.jpg") no-repeat center center fixed;
-    height: 840px;
-    background: url("../images/maria.jpg");
-    background: black;
-    color: white;
-    font-family: 'Questrial', sans-serif;
-    font-family: 'DM Serif Text', serif;
-    font-family: 'Quattrocento Sans', sans-serif;
-}
-
- #aboutmepage {
-    background: url("../images/maria.jpg") no-repeat center center fixed;
-
-    color: black;
-    font-family: 'Quattrocento Sans', sans-serif;
-    font-size: 35px;
-    margin-left: 30px;
-
-} */
-/* #aboutme {
-    color: black;
-    font-family: 'Quattrocento Sans', sans-serif;
-    font-size: 20px;
-    margin-left: 30px;
-    max-width: 25%;
-    padding-left: 30px;
-}
-
-#aboutmepar {
-    max-width: 50%;
-} */ 
-
-/* .style {
-    max-width: 960px;
-    margin: 0 auto;
-    background: "#f9f9f9";
-    font-size: 24px;
-    padding: 25px;
-}
-
-body#aboutmepage {
-    background: url("../images/maria.jpg") no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 500px;
-
-}  */
