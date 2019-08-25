@@ -44,6 +44,11 @@ h4 {
     line-height: 2em;
 }
 
+#projectsSection {
+    /* padding: 200px; */
+    margin-left: 200px;
+}
+
 li {
     list-style: none;
     margin: 10px 30px;
