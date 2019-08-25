@@ -1,6 +1,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    line-height: 130%;
+    line-height: 1.5em;
 }
 .myname {
     background: url("../images/laptop.jpg") no-repeat center;
@@ -25,7 +25,8 @@ body {
 }
 
 #intro {
-    padding: 60px;
+    /* padding: 60px; */
+    margin-left: 5%;
 }
 
 h4 {
@@ -34,9 +35,8 @@ h4 {
 }
 
 #myparagraph {
-    /* padding: 40px; */
-    /* font-family: 'Open Sans', sans-serif; */
     font-family: 'Montserrat', sans-serif;
+    line-height: 2.5em;
     
 }
 
@@ -56,6 +56,8 @@ li:hover {
     border: 1px solid coral;
     transition: .5s;
 }
+
+
 
 
 
