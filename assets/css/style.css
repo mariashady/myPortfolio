@@ -34,19 +34,12 @@ h4 {
     max-width: 70%;
 }
 
-/* #myparagraph {
-    font-family: 'Montserrat', sans-serif;
-    line-height: 2.5em;
-    
-} */
-
 #myinspo {
     line-height: 2em;
 }
 
 #projectsSection {
-    /* padding: 200px; */
-    margin-left: 200px;
+    margin-left: 210px;
 }
 
 li {
